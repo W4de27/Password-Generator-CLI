@@ -29,7 +29,7 @@ git clone https://github.com/W4de27/password-generator-cli.git
 ```
 ### 2. Navigate to the project folder
 ```bash
-cd password-generator-cli
+cd Password-Generator-CLI
 ```
 ### 3. Run the program
 ```bash
